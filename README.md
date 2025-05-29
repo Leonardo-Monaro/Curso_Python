@@ -12,7 +12,7 @@
 &nbsp;&nbsp;<img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />&nbsp;&nbsp;
 <div>
 
-> Olá meu nome é Leonardo Monaro Nascimento. Este diretório contém alguns projetos básicos e exercícios do Curso de Python para Data Science que estou fazendo nesse momento.
+> Olá meu nome é Leonardo Monaro Nascimento. Este diretório contém alguns projetos básicos e exercícios do Curso de Python para Data Science.
 > Meu objetivo é futuramente seguir uma carreira na área de ciências de dados ou quaisquer áreas relacionadas.
 
 ## 💻 Pré-requisitos
